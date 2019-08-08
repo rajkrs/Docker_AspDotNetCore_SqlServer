@@ -1,0 +1,14 @@
+version: '3.4'
+
+services:
+  webapi:
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    ports:
+      - "52743:80"
+
+  db:
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    ports:
+      - "1433:1433"
