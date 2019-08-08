@@ -1,4 +1,4 @@
-# Docker_AspDotNetCore_SqlServer
+# Docker Asp.NetCore Sql Server
 Running asp.net core and sql server in docker container example.
 
 
