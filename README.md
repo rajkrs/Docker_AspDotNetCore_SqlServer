@@ -7,7 +7,7 @@ Steps:
 2.	run docker-compose build
 3.	run docker-compose up
 
-You app should be running on port:52743, Verify API on http://localhost:52743/api/values
+Your app should be running on port:52743, Verify API on http://localhost:52743/api/values
 
 Also try connect MS SQL Server on SSMS with:
 1.	Server name: localhost,1433
